@@ -10,11 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2bc5f80-9c36-4f05-b27c-58bdada881fa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-setup/demo-setup.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login-assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/login-assignment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smoothstack/login_assignment/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smoothstack/login_assignment/LoginForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +46,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -105,7 +103,7 @@
       <workItem from="1618519731796" duration="64000" />
       <workItem from="1618519813959" duration="12000" />
       <workItem from="1618519898513" duration="69000" />
-      <workItem from="1618519988477" duration="641000" />
+      <workItem from="1618519988477" duration="2036000" />
     </task>
     <servers />
   </component>
